@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": Dragoplaze_.aternos.me
-    "port": 60639
+    "ip": "Dragoplaze_.aternos.me",
+    "port": 60639, 
     "version": "",
     "try-creative": false
   },
